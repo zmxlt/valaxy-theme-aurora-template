@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Aurora 主题",
+    "home_page_url": "https://aurora.zmxlt.top/",
+    "feed_url": "https://aurora.zmxlt.top/feed.json",
+    "description": "Aurora 主题的描述",
+    "icon": "https://www.yunyoujun.cn/images/avatar.jpg",
+    "author": {
+        "name": "VALAXY Developer",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h1>Hello Valaxy</h1>\n<p>Valaxy Content Test.</p>\n",
+            "url": "https://aurora.zmxlt.top/posts/hello-valaxy",
+            "title": "hello valaxy",
+            "summary": "这是 valaxy-theme-aurora 主题的模板",
+            "date_modified": "2023-05-02T00:00:00.000Z",
+            "date_published": "2023-05-19T13:23:36.000Z",
+            "author": {
+                "name": "VALAXY Developer",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
