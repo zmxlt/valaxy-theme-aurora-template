@@ -8,8 +8,8 @@ dependencies:
     specifier: ^0.1.0
     version: 0.1.0(valaxy@0.14.28)
   valaxy-theme-aurora:
-    specifier: ^0.1.2
-    version: 0.1.2
+    specifier: ^0.1.6
+    version: 0.1.6
   valaxy-theme-yun:
     specifier: 0.14.28
     version: 0.14.28(valaxy@0.14.28)
@@ -3067,8 +3067,8 @@ packages:
       - '@vue/composition-api'
     dev: false
 
-  /valaxy-theme-aurora@0.1.2:
-    resolution: {integrity: sha512-EDJZgLN2MWQWXq5Ya4hxLmtsn7A+0TvWVoM2EVBRBytRxEh2DTnqPueUjImyRTEQPdznLi4a3TEYzt0AA/6wPg==}
+  /valaxy-theme-aurora@0.1.6:
+    resolution: {integrity: sha512-ZZP3V7YN871fvpTpMv+RAujrYNCJoZTDLQpIqtWY6O3SJUO/spBX3o3g/KhYpHyt4ZxdokV1gD8DElHJ1iW3gA==}
     dependencies:
       dayjs: 1.11.7
     dev: false
